@@ -1,0 +1,35 @@
+name: Actualizar Catálogo Inmobiliario
+
+on:
+  schedule:
+    - cron: '0 12 * * 1,4' # Lunes y Jueves a las 12:00 UTC (7:00 AM hora Panamá)
+  workflow_dispatch: # Permite ejecución manual desde GitHub con un clic
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Ejecutar Agente de Búsqueda
+        run: |
+          python search_agent.py --budget 380000 --pages 2
+
+      - name: Confirmar y subir cambios
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add portal_inmobiliario/ propiedades_encontradas.html propiedades_recomendadas.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: catálogo de propiedades actualizado [skip ci]" && git push)

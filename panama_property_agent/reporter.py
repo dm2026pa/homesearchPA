@@ -868,6 +868,6 @@ class PropertyReporter:
         with open(html_path, "w", encoding="utf-8") as f:
             f.write(html_content)
 
-        # Also mirror to root propiedades_encontradas.html for convenient double click
-        root_html = "propiedades_encontradas.html"
-        shutil.copyfile(html_path, root_html)
+        # Also mirror to root propiedades_encontradas.html and index.html for direct GitHub Pages hosting
+        shutil.copyfile(html_path, "propiedades_encontradas.html")
+        shutil.copyfile(html_path, "index.html")

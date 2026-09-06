@@ -2,6 +2,14 @@
 
 Agente inteligente de búsqueda, análisis y filtrado inmobiliario para la **Ciudad de Panamá**, diseñado específicamente para familias que buscan inmuebles con estrictos estándares de espacio, funcionalidad y vida en comunidad infantil.
 
+<div align="center" style="margin: 16px 0;">
+
+[![⚡ Refrescar Catálogo en GitHub](https://img.shields.io/badge/⚡_REFRESCAR_CATÁLOGO_MANUALMENTE-Haz_Clic_Aquí-238636?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/dm2026pa/homesearchPA/actions/workflows/update_listings.yml)
+&nbsp;&nbsp;
+[![🌐 Abrir Portal Web en Vivo](https://img.shields.io/badge/🌐_ABRIR_PORTAL_WEB_EN_VIVO-GitHub_Pages-0969da?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dm2026pa.github.io/homesearchPA/)
+
+</div>
+
 ---
 
 ## 🎯 Criterios de Búsqueda y Filtros Estrictos

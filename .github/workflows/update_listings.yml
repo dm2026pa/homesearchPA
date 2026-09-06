@@ -3,7 +3,19 @@ name: Actualizar Catálogo Inmobiliario
 on:
   schedule:
     - cron: '0 12 * * 1,4' # Lunes y Jueves a las 12:00 UTC (7:00 AM hora Panamá)
-  workflow_dispatch: # Permite ejecución manual desde GitHub con un clic
+  workflow_dispatch: # Permite ejecución manual desde GitHub con un clic y parámetros personalizables
+    inputs:
+      budget:
+        description: 'Presupuesto objetivo en USD (ej. 380000)'
+        required: false
+        default: '380000'
+      pages:
+        description: 'Páginas a escanear por categoría (1-3)'
+        required: false
+        default: '2'
+
+permissions:
+  contents: write
 
 jobs:
   scrape-and-update:
@@ -25,11 +37,14 @@ jobs:
 
       - name: Ejecutar Agente de Búsqueda
         run: |
-          python search_agent.py --budget 380000 --pages 2
+          BUDGET="${{ github.event.inputs.budget || '380000' }}"
+          PAGES="${{ github.event.inputs.pages || '2' }}"
+          echo "Ejecutando agente con Presupuesto: \$$BUDGET y Páginas: $PAGES"
+          python search_agent.py --budget $BUDGET --pages $PAGES
 
       - name: Confirmar y subir cambios
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          git add portal_inmobiliario/ propiedades_encontradas.html propiedades_recomendadas.md
+          git add index.html portal_inmobiliario/ propiedades_encontradas.* propiedades_recomendadas.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: catálogo de propiedades actualizado [skip ci]" && git push)

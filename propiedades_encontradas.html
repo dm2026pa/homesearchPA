@@ -99,6 +99,27 @@
             color: #090d16;
             border-color: var(--primary);
         }
+        .refresh-cloud-btn {
+            background: rgba(35, 134, 54, 0.25);
+            color: #4ade80;
+            border: 1px solid rgba(74, 222, 128, 0.45);
+            padding: 8px 14px;
+            border-radius: 10px;
+            font-size: 12.5px;
+            font-weight: 700;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+        .refresh-cloud-btn:hover {
+            background: #238636;
+            color: #fff;
+            box-shadow: 0 4px 12px rgba(35, 134, 54, 0.4);
+            transform: translateY(-1px);
+        }
         .badge-budget {
             display: inline-flex;
             align-items: center;
@@ -382,21 +403,26 @@
                     <p>Filtro estricto: 3 Recámaras + CBE + Sala ≥42 m² + Estudio TV ≥15 m² + Comunidad para Niños</p>
                 </div>
             </div>
-            <div class="budget-control-box">
-                <div class="budget-label">🎯 Presupuesto:</div>
-                <div class="budget-input-wrap">
-                    <span>$</span>
-                    <input type="number" id="budgetInput" value="380000" step="10000" min="150000" max="1000000" oninput="onBudgetChanged(this.value)">
-                    <span style="font-size: 11px; color: var(--text-muted); margin-left: 4px;">USD</span>
+            <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
+                <div class="budget-control-box">
+                    <div class="budget-label">🎯 Presupuesto:</div>
+                    <div class="budget-input-wrap">
+                        <span>$</span>
+                        <input type="number" id="budgetInput" value="380000" step="10000" min="150000" max="1000000" oninput="onBudgetChanged(this.value)">
+                        <span style="font-size: 11px; color: var(--text-muted); margin-left: 4px;">USD</span>
+                    </div>
+                    <div class="quick-budgets">
+                        <button type="button" class="q-btn" onclick="setQuickBudget(320000)">$320k</button>
+                        <button type="button" class="q-btn" onclick="setQuickBudget(350000)">$350k</button>
+                        <button type="button" class="q-btn active" id="btn-380" onclick="setQuickBudget(380000)">$380k</button>
+                        <button type="button" class="q-btn" onclick="setQuickBudget(420000)">$420k</button>
+                        <button type="button" class="q-btn" onclick="setQuickBudget(450000)">$450k</button>
+                        <button type="button" class="q-btn" onclick="setQuickBudget(500000)">$500k</button>
+                    </div>
                 </div>
-                <div class="quick-budgets">
-                    <button type="button" class="q-btn" onclick="setQuickBudget(320000)">$320k</button>
-                    <button type="button" class="q-btn" onclick="setQuickBudget(350000)">$350k</button>
-                    <button type="button" class="q-btn active" id="btn-380" onclick="setQuickBudget(380000)">$380k</button>
-                    <button type="button" class="q-btn" onclick="setQuickBudget(420000)">$420k</button>
-                    <button type="button" class="q-btn" onclick="setQuickBudget(450000)">$450k</button>
-                    <button type="button" class="q-btn" onclick="setQuickBudget(500000)">$500k</button>
-                </div>
+                <a href="https://github.com/dm2026pa/homesearchPA/actions/workflows/update_listings.yml" target="_blank" class="refresh-cloud-btn" title="Ejecutar el bot de búsqueda en GitHub Actions para refrescar propiedades">
+                    ⚡ Refrescar en GitHub ↗
+                </a>
             </div>
         </div>
     </header>

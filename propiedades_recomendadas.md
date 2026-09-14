@@ -7,7 +7,7 @@
   4. ✅ Estudio / Den para TV de al menos 15 m²
   5. ✅ Opciones de comunidad para niños (playgrounds, canchas, piscinas infantiles, áreas verdes, seguridad)
 
-**Total Propiedades Calificadas:** 65 (Nuevas por Estrenar: 17 | Usados o Remodelados: 48)
+**Total Propiedades Calificadas:** 68 (Nuevas por Estrenar: 17 | Usados o Remodelados: 51)
 
 ==============================================================================
 
@@ -289,7 +289,7 @@ Proyectos nuevos y ventas directas de promotoras con año de entrega o construcc
 
 ==============================================================================
 
-## 🔄 SECCIÓN 2: USADOS O REMODELADOS — AÑO ANTERIOR A 2025 (48 propiedades)
+## 🔄 SECCIÓN 2: USADOS O REMODELADOS — AÑO ANTERIOR A 2025 (51 propiedades)
 Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo con gran metraje y áreas infantiles.
 
 ### 1. Casa Duplex Con Patio En Venta Casa En Paseo Del Norte En Aventura
@@ -531,23 +531,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 🌟 Comunidad Excepcional para Niños con 2 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-apartamentos/apto-294-m-con-terraza-de-75-m-san-francisco-obarrio-3-rec-c-u-con-bano-amoblado/32897813)
 
-### 16. Casa En Venta Full Remodelada En Costa Sur - Yd
-- **Categoría:** 🛠️ Remodelado a Nuevo
-- **Origen:** Encuentra24
-- **Precio:** $380,000 USD (~$1,392/m²)
-- **Ubicación:** Panamá Provincia, Ciudad de Panamá, Juan Díaz, Costa Sur
-- **Metraje:** 273 m² | **Distribución:** 3 Recámaras, 4.0 Baños
-- **Mantenimiento PH:** $1/mes
-- **Score de Afinidad:** **96%**
-- **Cuarto/Baño de Empleada (CBE):** ✅ SÍ
-- **Estudio / Den TV (≥15 m²):** ✅ SÍ (Espacio dedicado: 'Den'.)
-- **Sala-Comedor (≥42 m²):** ✅ Altamente viable: con 273 m², la sala-comedor supera habitualmente los 45 m².
-- **Comunidad para Niños:** 🧒 **🌟 Comunidad Excepcional para Niños**
-  - Amenidades infantiles: 🛡️ Comunidad cerrada y segura, 🎒 Zona familiar próxima a colegios
-- **Veredicto:** 🛠️ Remodelado a Nuevo. 🌟 Comunidad Excepcional para Niños con 2 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
-- **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/casa-en-venta-full-remodelada-en-costa-sur-yd/32791660)
-
-### 17. Vive Rodeado De Naturaleza Casas Con Paneles Solares Y Bellos Acabados
+### 16. Vive Rodeado De Naturaleza Casas Con Paneles Solares Y Bellos Acabados
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $416,000 USD (~$2,273/m²)
@@ -562,7 +546,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 🌟 Comunidad Excepcional para Niños con 4 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/vive-rodeado-de-naturaleza-casas-con-paneles-solares-y-bellos-acabados/32748425)
 
-### 18. Apartamento Con Vista Al Mar En Ph Cocolí – Bijao Beach Club & Residences
+### 17. Apartamento Con Vista Al Mar En Ph Cocolí – Bijao Beach Club & Residences
 - **Categoría:** 🏡 Usado / Reventa (Año 2010) | **Año:** 2010
 - **Origen:** Encuentra24
 - **Precio:** $385,000 USD (~$2,005/m²)
@@ -578,7 +562,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado / Reventa (Año 2010). 🌟 Comunidad Excepcional para Niños con 3 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/apartamento-con-vista-al-mar-en-ph-cocoli-bijao-beach-club-amp-residences/32512845)
 
-### 19. Venta De Apartamento En Costa Del Este, P.h. Lacosta Tower. Er
+### 18. Venta De Apartamento En Costa Del Este, P.h. Lacosta Tower. Er
 - **Categoría:** 🛠️ Remodelado a Nuevo
 - **Origen:** Encuentra24
 - **Precio:** $410,000 USD (~$2,181/m²)
@@ -594,7 +578,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🛠️ Remodelado a Nuevo. 🌟 Comunidad Excepcional para Niños con 3 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-apartamentos/venta-de-apartamento-en-costa-del-este-p-h-lacosta-tower-er/32104526)
 
-### 20. Amplia Residencia A 8 Minutos De Costa Verde Market Plaza
+### 19. Amplia Residencia A 8 Minutos De Costa Verde Market Plaza
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $265,000 USD (~$1,216/m²)
@@ -609,7 +593,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/amplia-residencia-a-8-minutos-de-costa-verde-market-plaza/32863576)
 
-### 21. Ph Aventura – Paseo Del Norte, Brisas Del Golf
+### 20. Ph Aventura – Paseo Del Norte, Brisas Del Golf
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $270,000 USD (~$1,720/m²)
@@ -625,7 +609,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 🌟 Comunidad Excepcional para Niños con 5 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/casa-en-venta-ph-aventura-paseo-del-norte-brisas-del-golf/32859076)
 
-### 22. Exclusivo Apartamento En Edificio Ritz – Paitilla
+### 21. Exclusivo Apartamento En Edificio Ritz – Paitilla
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $275,000 USD (~$935/m²)
@@ -639,6 +623,22 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
   - Amenidades infantiles: 🎒 Zona familiar próxima a colegios
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-apartamentos/exclusivo-apartamento-en-edificio-ritz-paitilla/32954043)
+
+### 22. Ganga En Brisas De Los Lagos - 4 Recamaras
+- **Categoría:** 🏡 Usado en Excelente Estado
+- **Origen:** Encuentra24
+- **Precio:** $275,000 USD (~$833/m²)
+- **Ubicación:** Ciudad de Panamá
+- **Metraje:** 330 m² | **Distribución:** 4 Recámaras, 3.0 Baños
+- **Mantenimiento PH:** $100/mes
+- **Score de Afinidad:** **93%**
+- **Cuarto/Baño de Empleada (CBE):** ✅ SÍ
+- **Estudio / Den TV (≥15 m²):** ✅ SÍ (Espacio dedicado: 'Estudio'.)
+- **Sala-Comedor (≥42 m²):** ✅ Altamente viable: con 330 m², la sala-comedor supera habitualmente los 45 m².
+- **Comunidad para Niños:** 🧒 **👍 Buena Opción Familiar**
+  - Amenidades infantiles: 🌳 Áreas verdes / Senderos
+- **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
+- **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/ganga-en-brisas-de-los-lagos-4-recamaras/32215494)
 
 ### 23. Vendo Casa En Villa Lido / Brisas Del Golf De 2 Niveles
 - **Categoría:** 🏡 Usado en Excelente Estado
@@ -670,7 +670,23 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/casa-en-venta-en-brisas-del-golf-5-rec-2-niveles-285-000-neg-amplia-semi-amoblada/32456934)
 
-### 25. El Bosque
+### 25. Venta De Encantador Apartamento En Kings Park – Condado Del Rey (oportunidad)
+- **Categoría:** 🏡 Usado en Excelente Estado
+- **Origen:** Encuentra24
+- **Precio:** $290,000 USD (~$976/m²)
+- **Ubicación:** Panamá Provincia, San Miguelito, Amelia Denis de Icaza, Condado del Rey
+- **Metraje:** 297 m² | **Distribución:** 3 Recámaras, 2.0 Baños
+- **Mantenimiento PH:** $373/mes
+- **Score de Afinidad:** **93%**
+- **Cuarto/Baño de Empleada (CBE):** ✅ SÍ
+- **Estudio / Den TV (≥15 m²):** ✅ SÍ (Metraje amplio (297 m²): permite adecuar estudio/TV de ≥15 m².)
+- **Sala-Comedor (≥42 m²):** ✅ Altamente viable: con 297 m², la sala-comedor supera habitualmente los 45 m².
+- **Comunidad para Niños:** 🧒 **👍 Buena Opción Familiar**
+  - Amenidades infantiles: 🎠 Parque / Playground
+- **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
+- **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-apartamentos/venta-de-encantador-apartamento-en-kings-park-condado-del-rey-oportunidad/32878532)
+
+### 26. El Bosque
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $295,000 USD (~$886/m²)
@@ -686,7 +702,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/se-vende-casa-en-el-doral-el-bosque/32915362)
 
-### 26. Hostal En Venta En Cerro Azul Panamá
+### 27. Hostal En Venta En Cerro Azul Panamá
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $298,000 USD (~$537/m²)
@@ -701,7 +717,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/hostal-en-venta-en-cerro-azul-panama/31522388)
 
-### 27. Venta De Amplio Y Bello Apartamento Con Vista Al Mar En Tao Tower – San Francisco
+### 28. Venta De Amplio Y Bello Apartamento Con Vista Al Mar En Tao Tower – San Francisco
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $299,000 USD (~$1,541/m²)
@@ -717,7 +733,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-apartamentos/venta-de-amplio-y-bello-apartamento-con-vista-al-mar-en-tao-tower-san-francisco/31594655)
 
-### 28. 271465. Se Vende A Excelente Precio Casa En Brisas Village, 268m De Terreno
+### 29. 271465. Se Vende A Excelente Precio Casa En Brisas Village, 268m De Terreno
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $299,000 USD (~$1,199/m²)
@@ -733,7 +749,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/271465-se-vende-a-excelente-precio-casa-en-brisas-village-268m-de-terreno/32851231)
 
-### 29. Increíble Casa En Brisas De Los Lagos A 30 Minutos De La Ciudad Id 17970
+### 30. Increíble Casa En Brisas De Los Lagos A 30 Minutos De La Ciudad Id 17970
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $299,000 USD (~$671/m²)
@@ -748,7 +764,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/increible-casa-en-brisas-de-los-lagos-a-30-minutos-de-la-ciudad-id-17970/23826915)
 
-### 30. Lista Para Habitar
+### 31. Lista Para Habitar
 - **Categoría:** 🛠️ Remodelado a Nuevo
 - **Origen:** Encuentra24
 - **Precio:** $315,000 USD (~$1,577/m²)
@@ -764,7 +780,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🛠️ Remodelado a Nuevo. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/casa-remodelada-de-2-niveles-en-ph-golf-garden-lista-para-habitar/32536399)
 
-### 31. Apartamento Con Hermosas Vistas En Ph Citrus San Francisco
+### 32. Apartamento Con Hermosas Vistas En Ph Citrus San Francisco
 - **Categoría:** 🛠️ Remodelado a Nuevo
 - **Origen:** Encuentra24
 - **Precio:** $320,000 USD (~$1,991/m²)
@@ -780,7 +796,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🛠️ Remodelado a Nuevo. 👍 Buena Opción Familiar con 2 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-apartamentos/apartamento-con-hermosas-vistas-en-ph-citrus-san-francisco/32944168)
 
-### 32. Ph Villa Tivoli - Vendo Linda Casa - Oportunidad!!!
+### 33. Ph Villa Tivoli - Vendo Linda Casa - Oportunidad!!!
 - **Categoría:** 🛠️ Remodelado a Nuevo
 - **Origen:** Encuentra24
 - **Precio:** $320,000 USD (~$1,813/m²)
@@ -796,7 +812,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🛠️ Remodelado a Nuevo. 🌟 Comunidad Excepcional para Niños con 2 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/ph-villa-tivoli-vendo-linda-casa-oportunidad/32903852)
 
-### 33. Melissa Foster Luxury Vende Casa En Ph Doral, Panamá – Mf145
+### 34. Melissa Foster Luxury Vende Casa En Ph Doral, Panamá – Mf145
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $325,000 USD (~$1,300/m²)
@@ -811,7 +827,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/melissa-foster-luxury-vende-casa-en-ph-doral-panama-mf145/31568543)
 
-### 34. Venta De Casa Dorado Springs Condado Del Rey
+### 35. Venta De Casa Dorado Springs Condado Del Rey
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $330,000 USD (~$1,638/m²)
@@ -827,7 +843,23 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 🌟 Comunidad Excepcional para Niños con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/venta-de-casa-dorado-springs-condado-del-rey/32103795)
 
-### 35. Hermosa Casa De 2 Niveles, Con Excelente Ubicación En Villa Zaita.
+### 36. Casa En Venta En Dorado Lake Remodelada
+- **Categoría:** 🛠️ Remodelado a Nuevo
+- **Origen:** Encuentra24
+- **Precio:** $350,000 USD (~$1,250/m²)
+- **Ubicación:** Panamá Provincia, San Miguelito, Amelia Denis de Icaza, Condado del Rey
+- **Metraje:** 280 m² | **Distribución:** 4 Recámaras, 3.5 Baños
+- **Mantenimiento PH:** $90/mes
+- **Score de Afinidad:** **93%**
+- **Cuarto/Baño de Empleada (CBE):** ✅ SÍ
+- **Estudio / Den TV (≥15 m²):** ✅ SÍ (4 recámaras: una puede destinarse exclusivamente a estudio/TV.)
+- **Sala-Comedor (≥42 m²):** ✅ Altamente viable: con 280 m², la sala-comedor supera habitualmente los 45 m².
+- **Comunidad para Niños:** 🧒 **👍 Buena Opción Familiar**
+  - Amenidades infantiles: 🛡️ Comunidad cerrada y segura
+- **Veredicto:** 🛠️ Remodelado a Nuevo. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
+- **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/casa-en-venta-en-dorado-lake-remodelada/30930908)
+
+### 37. Hermosa Casa De 2 Niveles, Con Excelente Ubicación En Villa Zaita.
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $375,000 USD (~$798/m²)
@@ -842,7 +874,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/hermosa-casa-de-2-niveles-con-excelente-ubicacion-en-villa-zaita/28170256)
 
-### 36. Casa En Rainforest Villas Ph Las Huacas
+### 38. Casa En Rainforest Villas Ph Las Huacas
 - **Categoría:** 🏡 Usado / Reventa (Año 2021) | **Año:** 2021
 - **Origen:** Encuentra24
 - **Precio:** $380,000 USD (~$1,199/m²)
@@ -858,7 +890,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado / Reventa (Año 2021). 🌟 Comunidad Excepcional para Niños con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/casa-en-rainforest-villas-ph-las-huacas/32585111)
 
-### 37. IMATERRA (PanamÃ¡ PacÃ­fico)
+### 39. IMATERRA (PanamÃ¡ PacÃ­fico)
 - **Categoría:** 🏡 Usado / Reventa (Año 2024) | **Año:** 2024 | **Promotora:** PanamÃ¡ PacÃ­fico
 - **Origen:** Venta Directa Promotora
 - **Precio:** $388,735 USD (~$2,240/m²)
@@ -874,7 +906,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado / Reventa (Año 2024). 🌟 Comunidad Excepcional para Niños con 7 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Venta Directa Promotora)](https://inmoproyectospanama.com/proyectos/panama-pacifico/imaterra)
 
-### 38. Los Flamingos
+### 40. Los Flamingos
 - **Categoría:** 🛠️ Remodelado a Nuevo
 - **Origen:** Encuentra24
 - **Precio:** $385,000 USD (~$1,375/m²)
@@ -889,7 +921,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🛠️ Remodelado a Nuevo. 👍 Buena Opción Familiar con 2 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/casa-duplex-remodelada-en-los-flamingos-san-francisco-lista-para-mudarse/32827042)
 
-### 39. PH ARTS & YOO (DUREX PROPERTY)
+### 41. PH ARTS & YOO (DUREX PROPERTY)
 - **Categoría:** 🏡 Usado / Reventa (Año 2014) | **Año:** 2014 | **Promotora:** DUREX PROPERTY
 - **Origen:** Venta Directa Promotora
 - **Precio:** $385,700 USD (~$2,143/m²)
@@ -905,7 +937,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado / Reventa (Año 2014). 👍 Buena Opción Familiar con 2 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Venta Directa Promotora)](https://inmoproyectospanama.com/proyectos/avenida-balboa/yoo)
 
-### 40. Seguridad 24h
+### 42. Seguridad 24h
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $390,000 USD (~$1,990/m²)
@@ -921,7 +953,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 2 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/venta-de-casa-en-el-dorado-betania-corona-gardens-seguridad-24h/32226102)
 
-### 41. Venta De Casa En Altos De Cerro Azul
+### 43. Venta De Casa En Altos De Cerro Azul
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $410,000 USD (~$1,171/m²)
@@ -937,7 +969,22 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 🌟 Comunidad Excepcional para Niños con 2 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/venta-de-casa-en-altos-de-cerro-azul/32873552)
 
-### 42. Condominio Esquinero de Lujo con Vista al Mar en Casamar
+### 44. Costa Sur Casas A Estrenar Desde 335K Piscina
+- **Categoría:** 🏡 Usado en Excelente Estado
+- **Origen:** Encuentra24
+- **Precio:** $335,000 USD (~$1,948/m²)
+- **Ubicación:** Panamá Provincia, Ciudad de Panamá, Juan Díaz, Costa Sur
+- **Metraje:** 172 m² | **Distribución:** 3 Recámaras, 3.5 Baños
+- **Score de Afinidad:** **90%**
+- **Cuarto/Baño de Empleada (CBE):** ✅ SÍ
+- **Estudio / Den TV (≥15 m²):** ✅ SÍ (Espacio adaptable en sala o zona familiar (verificar plano).)
+- **Sala-Comedor (≥42 m²):** ✅ Viable: con 172 m², la sala-comedor alcanza los 40-45 m².
+- **Comunidad para Niños:** 🧒 **👍 Buena Opción Familiar**
+  - Amenidades infantiles: 🌳 Áreas verdes / Senderos
+- **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
+- **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/costa-sur-casas-a-estrenar-desde-335k-piscina/32966851)
+
+### 45. Condominio Esquinero de Lujo con Vista al Mar en Casamar
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $319,900 USD (~$2,061/m²)
@@ -953,7 +1000,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 🌟 Comunidad Excepcional para Niños con 2 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-apartamentos/condominio-de-lujo-con-vista-al-mar-en-casamar-perlamar/32639443)
 
-### 43. Venta De Casa Con Elevador En Hato Pintado (la Loma Cerca Del Hospital San Fernando) Con Elevador
+### 46. Venta De Casa Con Elevador En Hato Pintado (la Loma Cerca Del Hospital San Fernando) Con Elevador
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $390,000 USD (~$542/m²)
@@ -968,7 +1015,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/venta-de-casa-con-elevador-en-hato-pintado-la-loma-cerca-del-hospital-san-fernando-con-elevador/31130172)
 
-### 44. Venta De Hermosa Y Moderna Casa En El Avance Ii - Betania
+### 47. Venta De Hermosa Y Moderna Casa En El Avance Ii - Betania
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $396,000 USD (~$1,226/m²)
@@ -983,7 +1030,23 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/venta-de-hermosa-y-moderna-casa-en-el-avance-ii-betania/32751544)
 
-### 45. Albrook, Venta De Apartamento En Embassy Village Con Amplia Terraza
+### 48. Vendo Apartamento Ph The View
+- **Categoría:** 🏡 Usado en Excelente Estado
+- **Origen:** Encuentra24
+- **Precio:** $400,000 USD (~$1,887/m²)
+- **Ubicación:** Panamá Provincia, Ciudad de Panamá, San Francisco, Vía  Porras
+- **Metraje:** 212 m² | **Distribución:** 3 Recámaras, 3.5 Baños
+- **Mantenimiento PH:** $397/mes
+- **Score de Afinidad:** **88%**
+- **Cuarto/Baño de Empleada (CBE):** ✅ SÍ
+- **Estudio / Den TV (≥15 m²):** ✅ SÍ (Metraje amplio (212 m²): permite adecuar estudio/TV de ≥15 m².)
+- **Sala-Comedor (≥42 m²):** ✅ Altamente viable: con 212 m², la sala-comedor supera habitualmente los 45 m².
+- **Comunidad para Niños:** 🧒 **👍 Buena Opción Familiar**
+  - Amenidades infantiles: 🛡️ Comunidad cerrada y segura
+- **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
+- **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-apartamentos/vendo-apartamento-ph-the-view/32215330)
+
+### 49. Albrook, Venta De Apartamento En Embassy Village Con Amplia Terraza
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $360,000 USD (~$1,593/m²)
@@ -998,7 +1061,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 2 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-apartamentos/albrook-venta-de-apartamento-en-embassy-village-con-amplia-terraza/32715009)
 
-### 46. Bella Casa En Venta En Trinity Hills, Panamá
+### 50. Bella Casa En Venta En Trinity Hills, Panamá
 - **Categoría:** 🏡 Usado / Reventa (Año 2015) | **Año:** 2015
 - **Origen:** Encuentra24
 - **Precio:** $265,000 USD (~$1,280/m²)
@@ -1014,7 +1077,7 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
 - **Veredicto:** 🏡 Usado / Reventa (Año 2015). 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/bella-casa-en-venta-en-trinity-hills-panama/32569548)
 
-### 47. Oportunidad! Se Vende Hermosa Casa Con Piscina En Altos Del Maria
+### 51. Oportunidad! Se Vende Hermosa Casa Con Piscina En Altos Del Maria
 - **Categoría:** 🏡 Usado en Excelente Estado
 - **Origen:** Encuentra24
 - **Precio:** $360,000 USD (~$1,491/m²)
@@ -1029,18 +1092,3 @@ Inmuebles entregados antes de 2025, reventas consolidadas o remodelados a nuevo 
   - Amenidades infantiles: 🌳 Áreas verdes / Senderos
 - **Veredicto:** 🏡 Usado en Excelente Estado. 🌟 Comunidad Excepcional para Niños con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
 - **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/oportunidad-se-vende-hermosa-casa-con-piscina-en-altos-del-maria/32195963)
-
-### 48. Venta De Casa - Villas Del Golf - Villa Tivoli
-- **Categoría:** 🏡 Usado en Excelente Estado
-- **Origen:** Encuentra24
-- **Precio:** $360,000 USD (~$1,385/m²)
-- **Ubicación:** Panamá Provincia, San Miguelito, Rufina Alfaro, Brisas del Golf
-- **Metraje:** 260 m² | **Distribución:** 3 Recámaras, 2.5 Baños
-- **Score de Afinidad:** **78%**
-- **Cuarto/Baño de Empleada (CBE):** ⚠️ Por validar
-- **Estudio / Den TV (≥15 m²):** ✅ SÍ (Metraje amplio (260 m²): permite adecuar estudio/TV de ≥15 m².)
-- **Sala-Comedor (≥42 m²):** ✅ Altamente viable: con 260 m², la sala-comedor supera habitualmente los 45 m².
-- **Comunidad para Niños:** 🧒 **👍 Buena Opción Familiar**
-  - Amenidades infantiles: 🎒 Zona familiar próxima a colegios
-- **Veredicto:** 🏡 Usado en Excelente Estado. 👍 Buena Opción Familiar con 1 amenidades para niños. Cumple con sala amplia, estudio TV y CBE dentro de presupuesto.
-- **Enlace Directo:** [Ver publicación o proyecto (Encuentra24)](https://www.encuentra24.com/panama-es/bienes-raices-venta-de-propiedades-casas/venta-de-casa-villas-del-golf-villa-tivoli/32537876)
